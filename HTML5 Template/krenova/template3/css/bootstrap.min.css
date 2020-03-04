@@ -6,7 +6,7 @@
  */
 
 :root {
-    --blue: #FF0033;
+    --blue: #FF0044;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -19,7 +19,7 @@
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
-    --primary: #FF0033;
+    --primary: #FF0044;
     --secondary: #6c757d;
     --success: #28a745;
     --info: #17a2b8;
@@ -177,7 +177,7 @@ sup {
 }
 
 a {
-    color: #FF0033;
+    color: #FF0044;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
@@ -2810,8 +2810,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #FF0033;
-    border-color: #FF0033
+    background-color: #FF0044;
+    border-color: #FF0044
 }
 
 .btn-primary:hover {
@@ -2828,8 +2828,8 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #fff;
-    background-color: #FF0033;
-    border-color: #FF0033
+    background-color: #FF0044;
+    border-color: #FF0044
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
@@ -3113,16 +3113,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-    color: #FF0033;
+    color: #FF0044;
     background-color: transparent;
     background-image: none;
-    border-color: #FF0033
+    border-color: #FF0044
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #FF0033;
-    border-color: #FF0033
+    background-color: #FF0044;
+    border-color: #FF0044
 }
 
 .btn-outline-primary.focus,
@@ -3132,7 +3132,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-    color: #FF0033;
+    color: #FF0044;
     background-color: transparent
 }
 
@@ -3140,7 +3140,7 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #FF0033;
+    background-color: #FF0044;
     border-color: rgb(153, 143, 147)
 }
 
@@ -3418,7 +3418,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #FF0033;
+    color: #FF0044;
     background-color: transparent
 }
 
@@ -3662,7 +3662,7 @@ tbody.collapse.show {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .dropdown-item.disabled,
@@ -4004,7 +4004,7 @@ tbody.collapse.show {
 
 .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .custom-control-input:focus~.custom-control-label::before {
@@ -4062,7 +4062,7 @@ tbody.collapse.show {
 }
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::after {
@@ -4070,7 +4070,7 @@ tbody.collapse.show {
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after {
@@ -4090,7 +4090,7 @@ tbody.collapse.show {
 }
 
 .custom-radio .custom-control-input:checked~.custom-control-label::before {
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .custom-radio .custom-control-input:checked~.custom-control-label::after {
@@ -4291,7 +4291,7 @@ tbody.collapse.show {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .nav-fill .nav-item {
@@ -5178,7 +5178,7 @@ tbody.collapse.show {
     padding: .5rem .75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #FF0033;
+    color: #FF0044;
     background-color: #fff;
     border: 1px solid #dee2e6
 }
@@ -5214,8 +5214,8 @@ tbody.collapse.show {
 .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #FF0033;
-    border-color: #FF0033
+    background-color: #FF0044;
+    border-color: #FF0044
 }
 
 .page-item.disabled .page-link {
@@ -5287,7 +5287,7 @@ tbody.collapse.show {
 
 .badge-primary {
     color: #fff;
-    background-color: #FF0033
+    background-color: #FF0044
 }
 
 .badge-primary[href]:focus,
@@ -5584,7 +5584,7 @@ tbody.collapse.show {
     justify-content: center;
     color: #fff;
     text-align: center;
-    background-color: #FF0033;
+    background-color: #FF0044;
     transition: width .6s ease
 }
 
@@ -5678,8 +5678,8 @@ tbody.collapse.show {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #FF0033;
-    border-color: #FF0033
+    background-color: #FF0044;
+    border-color: #FF0044
 }
 
 .list-group-flush .list-group-item {
@@ -6584,7 +6584,7 @@ button.close {
 }
 
 .bg-primary {
-    background-color: #FF0033 !important
+    background-color: #FF0044 !important
 }
 
 a.bg-primary:focus,
@@ -6720,7 +6720,7 @@ button.bg-dark:hover {
 }
 
 .border-primary {
-    border-color: #FF0033 !important
+    border-color: #FF0044 !important
 }
 
 .border-secondary {
@@ -9766,7 +9766,7 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #FF0033 !important
+    color: #FF0044 !important
 }
 
 a.text-primary:focus,

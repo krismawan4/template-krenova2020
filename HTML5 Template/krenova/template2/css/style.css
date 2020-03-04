@@ -49,7 +49,7 @@ h6,
 }
 
 .text-primary {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .border-top {
@@ -73,7 +73,7 @@ figure figcaption {
 .section-heading {
   font-size: 3rem;
   font-weight: 700;
-  background: linear-gradient(-45deg, #FF0033, #000428);
+  background: linear-gradient(-45deg, #FF0044, #000428);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -83,7 +83,7 @@ figure figcaption {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #FF0033;
+  background: #FF0044;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -120,9 +120,9 @@ figure figcaption {
 }
 
 .btn.btn-outline-red {
-  border: 2px solid #FF0033;
+  border: 2px solid #FF0044;
   background: none;
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .btn.btn-outline-blue {
@@ -151,11 +151,11 @@ figure figcaption {
 
 .btn.btn-outline-white:hover {
   background: #fff;
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .btn.btn-outline-red:hover {
-  background: #FF0033;
+  background: #FF0044;
   color: #ffffff;
 }
 
@@ -180,7 +180,7 @@ figure figcaption {
 }
 
 .btn.btn-primary {
-  background: #FF0033;
+  background: #FF0044;
   background: linear-gradient(-45deg, #1391a5, #000428);
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
@@ -199,7 +199,7 @@ figure figcaption {
 }
 
 .feature-1 .wrap-icon.icon-1 {
-  background: #FF0033;
+  background: #FF0044;
 }
 
 .feature-1 .wrap-icon .icon {
@@ -312,7 +312,7 @@ figure figcaption {
 }
 
 .pricing h3 {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .pricing .price-cta {
@@ -354,7 +354,7 @@ figure figcaption {
 }
 
 .pricing .btn-white:hover {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .pricing.popular {
@@ -376,13 +376,13 @@ figure figcaption {
 }
 
 .pricing.popular .btn-white {
-  border: 2px solid #FF0033;
+  border: 2px solid #FF0044;
 }
 
 /* CTA Section */
 
 .cta-section {
-  background: linear-gradient(to right, #000428 0%, #FF0033 100%);
+  background: linear-gradient(to right, #000428 0%, #FF0044 100%);
   color: #fff;
 }
 
@@ -423,7 +423,7 @@ figure figcaption {
 
 .sticky-wrapper .site-navbar .site-menu>li>a:hover,
 .sticky-wrapper .site-navbar .site-menu>li>a.active {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .sticky-wrapper.is-sticky .burger:before,
@@ -449,11 +449,11 @@ figure figcaption {
 
 .sticky-wrapper.is-sticky .site-navbar .site-menu>li>a:hover,
 .sticky-wrapper.is-sticky .site-navbar .site-menu>li>a.active {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .sticky-wrapper.is-sticky .site-navbar .site-menu>li.active a {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .sticky-wrapper .shrink {
@@ -473,7 +473,7 @@ figure figcaption {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border: 1px solid #FF0033;
+  border: 1px solid #FF0044;
 }
 
 .php-email-form .validate {
@@ -570,11 +570,11 @@ figure figcaption {
 
 .post-entry .post-text h3 a:hover {
   text-decoration: none;
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .post-entry .post-text .readmore {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .sidebar-box {
@@ -836,11 +836,11 @@ figure figcaption {
 }
 
 .site-navbar .site-navigation .site-menu>li>a:hover {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .site-navbar .site-navigation .site-menu>li.active>a {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .site-navbar .site-navigation .site-menu .has-children {
@@ -907,7 +907,7 @@ figure figcaption {
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown .active {
-  color: #FF0033 !important;
+  color: #FF0044 !important;
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown>li {
@@ -923,7 +923,7 @@ figure figcaption {
 }
 
 .site-navbar .site-navigation .site-menu .has-children .dropdown>li>a:hover {
-  background: #FF0033;
+  background: #FF0044;
   color: #ffffff;
 }
 
@@ -947,7 +947,7 @@ figure figcaption {
 .site-navbar .site-navigation .site-menu .has-children:hover>a,
 .site-navbar .site-navigation .site-menu .has-children:focus>a,
 .site-navbar .site-navigation .site-menu .has-children:active>a {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .site-navbar .site-navigation .site-menu .has-children:hover,
@@ -1048,7 +1048,7 @@ figure figcaption {
 }
 
 .site-mobile-menu .site-nav-wrap a:hover {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .site-mobile-menu .site-nav-wrap li {
@@ -1057,7 +1057,7 @@ figure figcaption {
 }
 
 .site-mobile-menu .site-nav-wrap li.active>a {
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .site-mobile-menu .site-nav-wrap .arrow-collapse {
@@ -1267,7 +1267,7 @@ figure figcaption {
 
 .social a:hover {
   color: #fff;
-  background: #FF0033;
+  background: #FF0044;
 }
 
 @media screen and (max-width: 992px) {
@@ -1339,7 +1339,7 @@ figure figcaption {
 
 .ftco-feature-1 .icon-red {
   font-size: 70px;
-  color: #FF0033;
+  color: #FF0044;
 }
 
 .ftco-feature-1 .icon-blue {
